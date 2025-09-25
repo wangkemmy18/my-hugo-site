@@ -1,12 +1,8 @@
-baseURL = "https://wangkemmy18.github.io/"
+baseURL = "https://wangkemmy.github.io/my-hugo-site/"
 languageCode = "zh-Hant"
-title = "Kemmy’s Website"
+title = "我的網站"
 paginate = 10
 enableRobotsTXT = true
-
-[params]
-  author = "Kemmy"
-  description = "Using GitHub and Hugo to compose my own universe."
 
 [markup.goldmark.renderer]
   unsafe = true
