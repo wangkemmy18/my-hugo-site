@@ -1,4 +1,4 @@
-baseURL = "https://<你的帳號>.github.io/"
+baseURL = "https://wangkemmy18.github.io/"
 languageCode = "zh-Hant"
 title = "Kemmy’s Website"
 paginate = 10
