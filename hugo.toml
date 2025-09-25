@@ -1,0 +1,12 @@
+baseURL = "https://<你的帳號>.github.io/"
+languageCode = "zh-Hant"
+title = "Kemmy’s Website"
+paginate = 10
+enableRobotsTXT = true
+
+[params]
+  author = "Kemmy"
+  description = "Using GitHub and Hugo to compose my own universe."
+
+[markup.goldmark.renderer]
+  unsafe = true
